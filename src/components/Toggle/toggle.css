@@ -1,0 +1,18 @@
+.labe {
+   @apply mt-6  flex flex-col  items-center justify-center 
+}
+.switch {
+    @apply  mt-6 mx-3  p-1 flex flex-col  items-center justify-center border-solid border-2 border-indigo-300 rounded-md bg-gray-300
+  }
+
+ .labelHello{
+    @apply text-lg text-gray-700 font-normal leading-relaxed 
+ }
+
+  .button {
+    @apply bg-orange-500 hover:bg-orange-700 text-lg font-bold mt-5 px-1 rounded
+  }
+  
+  .darkButton {
+   @apply bg-gray-800 text-white hover:bg-gray-500 text-lg rounded
+} 
